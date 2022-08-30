@@ -97,8 +97,8 @@ body {
     background-color: black;
     border-radius: 50%;
     position: absolute;
-    top: 195px;
-    left: 195px;
+    top: 193px;
+    left: 193px;
 }
 
 .hour{
@@ -175,7 +175,6 @@ body {
     display: flex;
     width: 320px;
     height: 320px;
-    /* background-color: aqua; */
     position: relative;
     margin: 0 auto;
     top: -268px;
@@ -202,7 +201,6 @@ body {
     display: flex;
     width: 260px;
     height: 260px;
-    /* background-color: rgb(196, 215, 23); */
     position: relative;
     margin: 0 auto;
     top: -556px;
@@ -221,7 +219,7 @@ body {
     height: 126px;
     background-color: black;
     position: relative;    
-    left: 126px;
+    left: 122px;
     transform: rotate(180deg);
 }
 
@@ -229,13 +227,11 @@ body {
     display: flex;
     width: 320px;
     height: 320px;
-    /* background-color: rgb(7, 10, 234); */
     position: relative;
     margin: 0 auto;
     top: -848px;
     left: 2px;
     border-radius: 50%;
-    /* transform: rotate(180deg); */
    
 }
 
