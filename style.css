@@ -91,8 +91,8 @@ body {
 
 .point{
     display: flex;
-    width: 25px;
-    height: 25px;
+    width: 30px;
+    height: 30px;
     background-color: black;
     border-radius: 50%;
     position: absolute;
