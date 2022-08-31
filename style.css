@@ -1,4 +1,3 @@
-
 body {
     margin: auto;
     overflow: auto;
@@ -92,8 +91,8 @@ body {
 
 .point{
     display: flex;
-    width: 15px;
-    height: 15px;
+    width: 18px;
+    height: 18px;
     background-color: black;
     border-radius: 50%;
     position: absolute;
@@ -198,13 +197,14 @@ body {
 }
 
 .hour-hand-wrapper{
+    /* background-color: aliceblue; */
     display: flex;
-    width: 260px;
-    height: 260px;
+    width: 230px;
+    height: 230px;
     position: relative;
     margin: 0 auto;
-    top: -556px;
-    left: 6px;
+    top: -545px;
+    left: 1px;
     border-radius: 50%;
 }
 
@@ -216,10 +216,10 @@ body {
 
 .hour-hand .hand{
     width: 4px;
-    height: 126px;
+    height: 113px;
     background-color: black;
     position: relative;    
-    left: 122px;
+    left: 112px;
     transform: rotate(180deg);
 }
 
@@ -229,7 +229,7 @@ body {
     height: 320px;
     position: relative;
     margin: 0 auto;
-    top: -848px;
+    top: -814px;
     left: 2px;
     border-radius: 50%;
    
@@ -251,4 +251,3 @@ body {
     left: 157px;
     
 }
-
